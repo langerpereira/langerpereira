@@ -69,6 +69,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/langerpereira/langerpereira/output/snake.svg" alt="Snake animation" />
 
 ###
